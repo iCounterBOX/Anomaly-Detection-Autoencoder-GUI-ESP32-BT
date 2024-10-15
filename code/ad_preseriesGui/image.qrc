@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/esp32.jpg</file>
+    <file>images/grabHand.jpeg</file>
+    <file>images/floppydiskregular_106322.png</file>
+    <file>images/bohrerPredict.jpg</file>
+    <file>images/bohrerSmall.jpg</file>
+    <file>images/webcam.png</file>
+    <file>images/detectedAnomaly.png</file>
+    <file>images/originalObject.png</file>
+    <file>images/preview.png</file>
+  </qresource>
+</RCC>
